@@ -4,3 +4,14 @@ Proyecto para crear un sinoptico que muestre las diferentes temperaturas de los 
 El seguimiento se hace en Trello:
 https://trello.com/b/Vkjk8W9i
 
+
+El versionado en GitHub:
+https://github.com/ArduinoMAM/Sinoptico-Ender-3
+
+Sofware GIT escritorio GitKraken.
+
+
+
+
+
+
